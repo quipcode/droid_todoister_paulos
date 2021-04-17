@@ -1,0 +1,1 @@
+*Todoister clone from [Paulo's](https://twitter.com/buildappswithme?lang=en) [The Comprehensive 2021 Android Development Masterclass](https://www.udemy.com/course/android-development-java-android-studio-masterclass/)*
